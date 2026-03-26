@@ -7,7 +7,8 @@ An end-to-end data analytics pipeline that ingests raw energy consumption data f
 
 ## 📊 Dashboard Preview
 
-Energy Consumption Dashboard.png
+<img width="1920" height="1080" alt="Energy Consumption Dashboard" src="https://github.com/user-attachments/assets/cc865b6b-c991-48ce-87dd-deed5867925d" />
+
 
 ---
 
